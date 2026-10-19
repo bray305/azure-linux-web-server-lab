@@ -5,7 +5,7 @@ I used Terraform to create Azure infrastructure for an Ubuntu virtual machine. I
 ## Tools Used
 - Microsoft Azure
 - Terraform
-- Ubunata Linux
+- Ubuntu Linux
 - Nginx
 - SSH
 - Azure CLI
