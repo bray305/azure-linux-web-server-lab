@@ -1,0 +1,24 @@
+# Downloaded Terraform providers
+.terraform/
+
+# Terraform state and backups
+*.tfstate
+*.tfstate.*
+
+# Local variable values
+*.tfvars
+*.tfvars.json
+
+# Saved execution plans
+*.tfplan
+tfplan
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Private keys
+.ssh/
+*.pem
+*.key
+azure_lab
